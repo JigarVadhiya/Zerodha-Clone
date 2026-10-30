@@ -1,0 +1,23 @@
+.nav-link {
+    margin-left: 40px;
+}
+
+/* Footer */
+
+.links {
+    color: #6c757d;
+    text-decoration: none;
+}
+
+.links:hover {
+    color: #4169E1;
+}
+
+.col i {
+    color: grey;
+    margin-left: 10px;
+}
+
+.icons i:hover {
+    color: #4169E1;
+}
