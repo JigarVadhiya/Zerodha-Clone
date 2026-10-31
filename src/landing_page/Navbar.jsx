@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
     return (
-        <nav class="navbar navbar-expand-lg border-bottom" >
+        <nav class="navbar navbar-expand-lg border-bottom">
             <div class="container p-2">
                 <Link class="navbar-brand" to="/">
                     <img src="media/images/logo.svg" style={{ width: "25%" }} alt="Logo" />

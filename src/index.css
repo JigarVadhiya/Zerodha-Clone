@@ -25,3 +25,27 @@
 .icons i:hover {
     color: #4169E1;
 }
+
+/* Support Hero */
+#supportHero {
+    background-color: rgb(56, 126, 209);
+    color: white;
+}
+
+#supportHero a{
+    color: white;
+}
+
+#supportWrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 150px;
+}
+
+#supportHero  input{
+    padding: 20px 50px; 
+    width: 85%;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+}
